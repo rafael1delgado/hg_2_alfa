@@ -8,4 +8,4 @@
 | Sebastián Navas | VZLA |
 | Yamileth Mujica | VZLA |
 | Gabriela Puerta | VZLA |
-| Carlos Almao | USA |
+| Carlos Almao | VZLA |
