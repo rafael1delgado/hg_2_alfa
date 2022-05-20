@@ -1,6 +1,6 @@
 # hg_2_alfa
 
-## Group Fox Members
+## Members Group 7
 
 | Name | Location |
 | ----------- | ----------- |
