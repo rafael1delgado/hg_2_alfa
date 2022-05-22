@@ -3,7 +3,7 @@
 ## Members Group 7
 
 | Name | Location | Alias |
-| ----------- | ----------- |
+| ----------- | ----------- | ----------- |
 | Rafael Delgado | VZLA | Alfa |
 | Sebastián Navas | VZLA | Bravo |
 | Yamileth Mujica | VZLA | Charlie |
