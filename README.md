@@ -2,10 +2,10 @@
 
 ## Members Group 7
 
-| Name | Location |
-| ----------- | ----------- |
-| Rafael Delgado | VZLA |
-| Sebastián Navas | VZLA |
-| Yamileth Mujica | VZLA |
-| Gabriela Puerta | VZLA |
-| Carlos Almao | VZLA |
+| Name | Location | Alias |
+| ----------- | ----------- | ----------- |
+| Rafael Delgado | VZLA | Alfa |
+| Sebastián Navas | VZLA | Bravo |
+| Yamileth Mujica | VZLA | Charlie |
+| Gabriela Puerta | VZLA | Delta |
+| Carlos Almao | VZLA | Echo |
